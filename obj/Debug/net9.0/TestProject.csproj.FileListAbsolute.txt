@@ -7,6 +7,7 @@ C:\Desktop\net\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.Generated
 C:\Desktop\net\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
 C:\Desktop\net\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
 C:\Desktop\net\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Desktop\net\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json
 C:\Desktop\net\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.dll
 C:\Desktop\net\CsharpProjects\TestProject\obj\Debug\net9.0\refint\TestProject.dll
 C:\Desktop\net\CsharpProjects\TestProject\obj\Debug\net9.0\TestProject.pdb
