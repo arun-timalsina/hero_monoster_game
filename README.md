@@ -26,7 +26,7 @@ A simple console-based turn battle simulator between a hero and a monster, built
 1. Clone the repository:
 ```bash
 git clone https://github.com/arun-timalsina/hero_monoster_game.git
-
+```
 ## 🕹️ How to Play
 - Game starts automatically with both characters at 100 health
 - Each turn:
@@ -34,7 +34,7 @@ git clone https://github.com/arun-timalsina/hero_monoster_game.git
 - Monster retaliates with random damage (0-10)
 - Battle continues until one character's health reaches 0
 - Winner is declared based on remaining health
-
+```
 
 ## 🧠 Game Logic
 ```bash
@@ -55,7 +55,7 @@ while (heroHealth > 0 && monsterHealth > 0)
     Console.WriteLine($"Hero attack: {heroAttack} | Monster health: {monsterHealth}");
     Console.WriteLine($"Monster counter: {monsterAttack} | Hero health: {heroHealth}\n");
 }
-
+```
 
 ## 📂 Project Structure
 ```bash
@@ -65,8 +65,4 @@ hero_monoster_game/
 ├── TestProject.sln    # Solution file
 ├── README.md          # This documentation
 └── .gitignore         # Ignore build artifacts
-
-
-
-
-
+``` 
